@@ -13,5 +13,9 @@ public class LoginPage {
 	public void pwdset(){
 		System.out.println("pwd");
 	}
+	
+	public void logindone() {
+		System.out.println("login done");
+	}
 
 }
